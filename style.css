@@ -1,0 +1,16 @@
+.body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hello-world {
+    font-weight: 500;
+    font-size: 70px;
+}
+
+.info-area {
+    padding: 50px;
+}
+
+#bottom {
+    padding: 100px;
+}
